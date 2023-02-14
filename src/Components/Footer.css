@@ -1,0 +1,43 @@
+.sub-content {
+    height: 298px;
+    width: 1300px;
+    padding-top: 30px;
+    padding-left: 136px;
+    display: flex;
+    background-color: #282828;
+    color: #ffffff;
+    position: relative;
+   
+
+}
+.wrapper {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.left {
+    width: 216px;
+    height: 36px;
+    font-size: 20px;
+    line-height: 120%;
+}
+.right {
+    width: 425px;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: right;
+    padding-right: 193px;
+    
+}
+.wrapper .sub-content .right {
+   position: absolute;
+    right: 0;
+}
+.logo {
+    position: absolute;
+    right: 0;
+    height: 16px;
+    width: 16px;
+}
+
+
